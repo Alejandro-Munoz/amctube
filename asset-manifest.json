@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Alejandro-Munoz/amctube/static/css/main.96c11df6.chunk.css",
+    "main.js": "/Alejandro-Munoz/amctube/static/js/main.f5e61b19.chunk.js",
+    "main.js.map": "/Alejandro-Munoz/amctube/static/js/main.f5e61b19.chunk.js.map",
+    "runtime~main.js": "/Alejandro-Munoz/amctube/static/js/runtime~main.638de3be.js",
+    "runtime~main.js.map": "/Alejandro-Munoz/amctube/static/js/runtime~main.638de3be.js.map",
+    "static/js/2.824d5390.chunk.js": "/Alejandro-Munoz/amctube/static/js/2.824d5390.chunk.js",
+    "static/js/2.824d5390.chunk.js.map": "/Alejandro-Munoz/amctube/static/js/2.824d5390.chunk.js.map",
+    "index.html": "/Alejandro-Munoz/amctube/index.html",
+    "precache-manifest.d7189d2ee4850c9cc844518e993d5a9c.js": "/Alejandro-Munoz/amctube/precache-manifest.d7189d2ee4850c9cc844518e993d5a9c.js",
+    "service-worker.js": "/Alejandro-Munoz/amctube/service-worker.js",
+    "static/css/main.96c11df6.chunk.css.map": "/Alejandro-Munoz/amctube/static/css/main.96c11df6.chunk.css.map"
+  }
+}
